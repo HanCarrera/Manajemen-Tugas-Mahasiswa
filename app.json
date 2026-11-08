@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "manajemen-tugas-mahasiswa",
+    "slug": "manajemen-tugas-mahasiswa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "scheme": "manajemen-tugas"
+  }
+}
